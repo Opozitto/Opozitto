@@ -57,7 +57,8 @@
 ## 📫 Контакты
 
 - ✉️ Email: [opozit@rambler.ru](mailto:opozit@rambler.ru)  
-- 📞 Телефон: +7 (910) 438-60-77  
+- 📞 Телефон: +7 (910) 438-60-77
+- 📱 Telegram: [@Opozittor](https://t.me/Opozittor)
 - 🌐 GitHub: [github.com/Opozitto](https://github.com/Opozitto)  
 - 📍 Москва (удалённая работа и гибкие форматы — возможны)
 
