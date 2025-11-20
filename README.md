@@ -57,6 +57,21 @@
 
 ---
 
+## **Проекты** 🚀
+
+- Steel Temperature Prediction 🔥 — прогноз температуры стали для металлургического комбината — ансамбль ElasticNet+RF+LightGBM+NN — стек: Python, Pandas, Numpy, Scikit-learn, LightGBM, XGBoost, TensorFlow, Keras, Matplotlib, Seaborn
+- Прогнозирование покупок 🛒 — вероятность покупки клиента в интернет-магазине за 90 дней — CatBoostClassifier — стек: Python, Pandas, Numpy, Scikit-learn, CatBoost, SHAP, Matplotlib, Seaborn
+
+- Прогноз заказов такси 🚕 — предсказание количества заказов на следующий час — Ridge, CatBoost, LightGBM — стек: Python, Pandas, Numpy, Scikit-learn, LightGBM, CatBoost, Matplotlib, Seaborn
+
+- Text-to-Image Search PoC 🖼️ — семантический поиск изображений по тексту — SVR и нейросети — стек: Python, PyTorch, TensorFlow, Transformers, Sentence-Transformers, OpenCV, Matplotlib
+
+- HRPredictor 🧠 — предсказание удовлетворённости и риска увольнения сотрудников — DecisionTree / LogisticRegression — стек: Python, Pandas, Numpy, Scikit-learn, SHAP, Matplotlib, Seaborn
+
+- Классификация токсичных комментариев 💬 — автоматическая модерация комментариев для интернет-магазина — LightGBM + BERT — стек: Python, NLTK, Transformers, PyTorch, Scikit-learn, Matplotlib, Seaborn
+
+- CrashRiskAI 🚗 — оценка риска ДТП по маршруту — RandomForest, LogisticRegression, GradientBoosting — стек: Python, Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn
+
 ## 🚀 Немного личной мотивации
 
 Мне действительно интересно развиваться в Data Science — нравится разбираться в данных, искать закономерности и превращать аналитику в понятные и полезные решения.  
