@@ -89,7 +89,7 @@
 
 - ✉️ Email: [opozit@rambler.ru](mailto:opozit@rambler.ru)  
 - 📞 Телефон: +7 (910) 438-60-77
-- 📱 Telegram: [@Opozittor](https://t.me/Opozittor)
+- 📱 Telegram: [@Yury_Filippov_V](https://t.me/Yury_Filippov_V)
 - 🌐 GitHub: [github.com/Opozitto](https://github.com/Opozitto)  
 - 📍 Москва (удалённая работа и гибкие форматы — возможны)
 
